@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     max-width: 700px;
     margin: 40px auto;
-    background: #f4f4f4;
+    background: #08073f;
 }
 
 .tabs {
@@ -20,7 +20,7 @@ body {
 }
 
 .tab-btn.active {
-    background: #007bff;
+    background: #921c1c;
     color: white;
 }
 
@@ -44,7 +44,7 @@ input {
 
 button {
     padding: 12px;
-    background: #28a745;
+    background: #a72828;
     color: white;
     border: none;
     width: 100%;
